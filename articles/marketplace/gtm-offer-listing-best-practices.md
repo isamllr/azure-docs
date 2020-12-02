@@ -58,6 +58,7 @@ Select categories and subcategories that best align with your solution type. You
 
 See [Transacting in the commercial marketplace](marketplace-commercial-transaction-capabilities-and-considerations.md) for specific details on how transact capabilities may affect how your offer can be viewed and purchased by marketplace customers. For SaaS offers, the offer's transaction capability as well as the category selection will determine the online store where your offer will be published.
 
+**Colum with description missing on the left - tbd**
 
 | SaaS offer    | SaaS offer   | SaaS offer  | SaaS offer   | SaaS offer   | SaaS offer   | SaaS offer    | Applicable online store| Applicable online store |
 |:-------------:|:---:|:--------:|:---------:|:--:|:--:|:---:|:---------------------:|:-------------:|
